@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+}
+
+input[type="text"] {
+  display: inline-block;
+  width: 20%;
+  line-height: 200%;
+  margin: 0 auto;
+}
+
+
